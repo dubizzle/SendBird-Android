@@ -8,8 +8,8 @@ import com.sendbird.android.sample.utils.PreferenceUtils;
 
 public class BaseApplication extends Application {
 
-    private static final String APP_ID = "9DA1B1F4-0BE6-4DA8-82C5-2E81DAB56F23"; // US-1 Demo
-    public static final String VERSION = "3.0.39";
+    private static final String APP_ID = "66C51FAE-1679-4148-B104-23910C5223CE";
+    public static final String VERSION = "Shedd Android Stage";
 
     @Override
     public void onCreate() {
